@@ -130,3 +130,5 @@ dmypy.json
 
 # user added
 *.DS_Store
+
+Data_Engineering/ny_taxi_postgres_data/*
