@@ -7,3 +7,4 @@ hyperopt
 xgboost
 fastparquet
 boto3
+wandb
