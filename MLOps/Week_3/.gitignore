@@ -2,6 +2,5 @@
 *models*
 *mlflow.db*
 
-*.parquet
 *.json
 *.csv
