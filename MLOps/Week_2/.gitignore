@@ -1,3 +1,4 @@
 # /mlruns/*
 /output/*
 /mlartifacts/*
+*.parquet
