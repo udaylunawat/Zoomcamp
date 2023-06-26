@@ -4,6 +4,10 @@ Q2 - 57M
 
 Q3 -
 
+```bash
+jupyter nbconvert --to script starter.ipynb
+```
+
 Q4 -         "scikit-learn": {
             "hashes": [
                 "sha256:065e9673e24e0dc5113e2dd2b4ca30c9d8aa2fa90f4c0597241c93b63130d233",
